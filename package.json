@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-express-server-boilerplate-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ekstek/NodeJS-Express-Server-Boilerplate-TS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ekstek/NodeJS-Express-Server-Boilerplate-TS/issues"
+  },
+  "homepage": "https://github.com/ekstek/NodeJS-Express-Server-Boilerplate-TS#readme",
+  "dependencies": {
+    "typescript": "^3.5.3"
+  }
+}

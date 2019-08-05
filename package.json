@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/ekstek/NodeJS-Express-Server-Boilerplate-TS#readme",
   "dependencies": {
+    "@types/express": "^4.17.0",
+    "express": "^4.17.1",
     "typescript": "^3.5.3"
   }
 }
